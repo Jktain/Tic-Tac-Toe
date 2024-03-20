@@ -5,7 +5,7 @@ public class WinCondition : MonoBehaviour
 
     public static int[,] gameMatrix = new int[3, 3];
     public static int score;
-
+    
     private void Start()
     {
          score = 0;
