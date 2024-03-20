@@ -14,7 +14,7 @@ Game Allows to change color theme by clicking in button "Change Theme". It also 
 Crosses, zeros, net and lines were taken from Assets/X&O/Origin.png and then edited with Photoshop in Origin.psd
 
 ## Run
-To run this game you need to install Unity Editor v. 2022.3.17f1 and then in Editor Build and Run the project
+To run this game - unzip "Tic-Tac-Toe.rar" and run "Tic-Tac-Toe.exe"
 
 ## Buttons
 Space - open game in full screen
