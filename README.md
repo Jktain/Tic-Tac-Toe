@@ -15,3 +15,9 @@ Crosses, zeros, net and lines were taken from Assets/X&O/Origin.png and then edi
 
 ## Run
 To run this game you need to install Unity Editor v. 2022.3.17f1 and then in Editor Build and Run the project
+
+## Buttons
+Space - open game in full screen
+Escape - open game in window
+
+Default state - window
