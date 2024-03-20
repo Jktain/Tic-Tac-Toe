@@ -18,6 +18,7 @@ To run this game you need to install Unity Editor v. 2022.3.17f1 and then in Edi
 
 ## Buttons
 Space - open game in full screen
+
 Escape - open game in window
 
 Default state - window
